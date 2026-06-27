@@ -1,15 +1,33 @@
+# 🔀 Python Conditions & Decision Making
 
-# Python Conditions Basics 🐍
+## 📌 About
+Beginner Python programs covering if, else, 
+elif and decision making logic. Part of my 
+Python learning journey toward becoming 
+a Data Analyst.
 
-This repository contains beginner Python programs for learning conditions.
+## 📂 Topics Covered
+| Topic | Description |
+|---|---|
+| if statement | Basic condition check |
+| else statement | Alternative condition |
+| elif statement | Multiple conditions |
+| Nested if | Conditions inside conditions |
 
-## Topics Covered
-- if statement
-- if else statement
-- elif statement
-- Nested if
-- Decision making projects
+## 💡 What I Learned
+- How to make decisions in code
+- Writing if/else conditions
+- Handling multiple conditions with elif
+- Nested conditions
 
-## Author
-Ayesha Mumtaz
-BS Information Technology - 5th Semester
+## 🛠️ Tools Used
+- Python 3
+- VS Code
+
+## 👩‍💻 Author
+**Ayesha Mumtaz** — BS IT Student  
+📍 Bahwalpur,Punjab, Pakistan  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
+
+## 📈 Status
+✅ Completed
